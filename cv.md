@@ -15,7 +15,7 @@ GitHub: [RomanVoronezh](https://github.com/RomanVoronezh)
 ## Skills
 * HTML
 * CSS/SASS/SCSS
-* JS
+* JS/React
 * Figma
 * PS
 
